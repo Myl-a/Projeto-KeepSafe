@@ -1,4 +1,4 @@
-# Detecção de objetos em video e imagens
+# Detecção de objetos em video e Webcams
 
 
 # Requisitos
